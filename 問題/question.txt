@@ -1,0 +1,11 @@
+http://www.skin-gym.com/qa/以下を
+pure PHP、MySql、Apacheの環境でシステム化してください。
+（WPやフレームワークはNG、画像やcssはサイトからDLしてください）
+
+提出物（設計書、以下の5ページのファイル、DB Script、DB Dump、Apacheの設定ファイル）
+作成するページ（例のページ）
+・扉ページ（http://www.skin-gym.com/qa/）
+・新着一覧（http://www.skin-gym.com/qa/latest/）
+・カテゴリ別一覧（http://www.skin-gym.com/qa/kaatsu/）
+・小カテゴリ別一覧（http://www.skin-gym.com/qa/kaatsu/mechanism/）
+・Q&A詳細ページ（http://www.skin-gym.com/qa/q904.php）
